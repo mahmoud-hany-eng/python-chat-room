@@ -26,32 +26,43 @@ It demonstrates practical implementation of **client–server communication** us
 ---
 
 ## 🏗️ Architecture
-- **Server (`server.py`)**
-  - Handles client connections and communications
-  - Manages chat rooms and messages
-  - Uses threading for concurrency
 
-- **Client (`client.py`)**
-  - Connects to server using IP and room code
-  - Allows sending/receiving messages
-  - Supports file sharing
+### Server (`server.py`)
+- Handles client connections and communications
+- Manages chat rooms and message broadcasting
+- Uses threading for concurrency
+
+### Client (`client.py`)
+- GUI-based client application
+- Connects to server using IP and room code
+- Allows sending and receiving messages
+- Supports file sharing
 
 ---
 
 ## 📸 Screenshots
-![GUI](Screenshots/GUI.jpg)
+
+### GUI
+![GUI Screenshot](Screenshots/GUI.jpg)
+
+### Poster
 ![Poster](Screenshots/Poster.jpg)
 
-## 🚀 How to Use
+---
 
-1. **Start the server**
+## 🚀 How to Run
+
+### 1️⃣ Start the server
 ```bash
 python server.py
 
-2. **Start the server**
+### 2️⃣ Start one or more clients (in new terminals)
 ```bash
 python client.py
 
-3. Enter the server IP as : 127.0.0.1 , room code of ur own, and your name.
+### 3️⃣ Using the client GUI
+- Server IP: `127.0.0.1`
+- Room code: any code (e.g., `123`)
+- Name: your name
+- Click **Connect** → **Join Room** → start chatting 🎉
 
-4. Start chatting! 🎉
