@@ -38,6 +38,10 @@ It demonstrates practical implementation of **client–server communication** us
 
 ---
 
+## 📸 Screenshots
+![GUI](Screenshots/GUI.jpg)
+![Poster](Screenshots/Poster.jpg)
+
 ## 🚀 How to Use
 
 1. **Start the server**
