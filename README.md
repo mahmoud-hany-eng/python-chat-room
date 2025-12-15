@@ -55,14 +55,15 @@ It demonstrates practical implementation of **client–server communication** us
 ### 1️⃣ Start the server
 ```bash
 python server.py
-
+---
 ### 2️⃣ Start one or more clients (in new terminals)
 ```bash
 python client.py
-
+---
 ### 3️⃣ Using the client GUI
+```bash
 - Server IP: `127.0.0.1`
 - Room code: any code (e.g., `123`)
 - Name: your name
 - Click **Connect** → **Join Room** → start chatting 🎉
-
+---
