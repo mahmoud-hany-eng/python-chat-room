@@ -7,6 +7,16 @@ It demonstrates practical implementation of **client–server communication** us
 
 ---
 
+## 📸 Screenshots
+
+### GUI
+![GUI Screenshot](Screenshots/GUI.jpg)
+
+### Poster
+![Poster](Screenshots/Poster.jpg)
+
+---
+
 ## ⚙️ Technologies Used
 - Python
 - TCP Sockets
@@ -37,16 +47,6 @@ It demonstrates practical implementation of **client–server communication** us
 - Connects to server using IP and room code
 - Allows sending and receiving messages
 - Supports file sharing
-
----
-
-## 📸 Screenshots
-
-### GUI
-![GUI Screenshot](Screenshots/GUI.jpg)
-
-### Poster
-![Poster](Screenshots/Poster.jpg)
 
 ---
 
