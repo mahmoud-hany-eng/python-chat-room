@@ -12,7 +12,7 @@ It demonstrates practical implementation of **client–server communication** us
 <img src="Screenshots/Poster.jpg" width="400">
 
 ### GUI
-![GUI Screenshot](Screenshots/GUI.jpg)
+<img src="Screenshots/GUI.jpg" width="400">
 
 ---
 
