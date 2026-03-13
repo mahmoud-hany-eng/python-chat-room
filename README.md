@@ -9,7 +9,7 @@ It demonstrates practical implementation of **client–server communication** us
 
 ## 📸 Screenshots
 ### Poster
-![Poster](Screenshots/Poster.jpg)
+<img src="Screenshots/poster.jpg" width="400">
 
 ### GUI
 ![GUI Screenshot](Screenshots/GUI.jpg)
