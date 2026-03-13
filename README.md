@@ -8,12 +8,11 @@ It demonstrates practical implementation of **client–server communication** us
 ---
 
 ## 📸 Screenshots
+### Poster
+![Poster](Screenshots/Poster.jpg)
 
 ### GUI
 ![GUI Screenshot](Screenshots/GUI.jpg)
-
-### Poster
-![Poster](Screenshots/Poster.jpg)
 
 ---
 
